@@ -35,7 +35,7 @@
 
 
 
-
+let bankBranchInstance;
 class BankBranch {
     constructor(branchInfo) {
         // Check if the bankBranchInstance variable exists
